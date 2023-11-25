@@ -4,7 +4,7 @@
   <author>Dheeraj Parangot</author>
   <_description>Crisp good looking</_description>
   
-  <style background="#4d4d4d" name="current-line"/>
+  <style background="#1f2738" name="current-line"/>
 	<style background="#857b6f" bold="true" foreground="#f6f3e8" name="bracket-match"/>
 	<style background="#656565" name="cursor"/>
 	<style background="#000612" foreground="#f6f3e8" name="text"/>
@@ -18,7 +18,7 @@
 	<style foreground="#edafb8" name="def:statement"/>
 	<style foreground="#d90429" name="def:keyword" bold = "true"/>
 	<style foreground="#f7768e" name="def:preprocessor"/>
-	<style foreground="#f7768e" name="def:number"/>
+	<style foreground="#ff9e64" name="def:number"/>
 	<style foreground="#e7f6da" name="def:specials"/>
 	
  

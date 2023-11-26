@@ -8,7 +8,7 @@
 	<style background="#857b6f" bold="true" foreground="#f6f3e8" name="bracket-match"/>
 	<style background="#656565" name="cursor"/>
 	<style background="#000612" foreground="#f6f3e8" name="text"/>
-	<style background="#000000" foreground="#857b6f" name="line-numbers"/>
+	<style background="#1a1b26" foreground="#857b6f" name="line-numbers"/>
 	<style foreground="#3a86ff" italic="true" name="def:comment"/>
 	<style foreground="#f7768e" name="def:constant"/>
 	<style foreground="#9ece6a" italic="false" name="def:string"/>
